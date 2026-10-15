@@ -1,3 +1,5 @@
 hello git remote a
 fineface dd origin
-fineface kingsley azubuike
+fineface kingsley azubuik
+harmony fineface 
+stanley fineface
