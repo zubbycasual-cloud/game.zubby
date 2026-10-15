@@ -1,5 +1,5 @@
-hello git remote a
-fineface dd origin
+hello git application 
+fineface  origin
 fineface kingsley azubuik
 harmony fineface 
 stanley fineface
