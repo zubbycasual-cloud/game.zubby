@@ -1,1 +1,2 @@
-hello git remote add origin
+hello git remote a
+fineface dd origin
